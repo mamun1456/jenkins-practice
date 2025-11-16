@@ -1,0 +1,6 @@
+For New Project:
+    1. git init:  Go to "Source Control" window ===> Click "Initialize Repository"
+    2. git add .: Go to "Source Control" window ===> Press the "+" button on changes 
+    3. git commit -m "message": Go to "Source Control" window ===> Enter commit message and press "Commit" button
+    4. git branch -M master & git remote add "URL":
+            Go to "Source Control" window ===> click "..." ====> Remote ===> Add Remote ===> Paste The Repository URL ====> give name "origins" ====> press Enter
